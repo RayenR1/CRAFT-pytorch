@@ -6,8 +6,8 @@ setup(
     packages=["craft_text_detector"],
     package_data={"craft_text_detector": ["*.py"]},
     install_requires=[
-        "torch",
-        "opencv-pytho4.5",
-        "numpy"
+        "torch>=2.0",
+        "opencv-python>=4.5",
+        "numpy>=1.21"
     ],
 )
