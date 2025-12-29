@@ -29,7 +29,7 @@ CRAFT (Character Region Awareness for Text detection) est un détecteur de texte
 
 ```bash
 # Cloner le repository
-git clone https://github.com/votre-username/CRAFT-pytorch.git
+git clone https://github.com/RayenR1/CRAFT-pytorch
 cd CRAFT-pytorch
 
 # Installer en mode développement
